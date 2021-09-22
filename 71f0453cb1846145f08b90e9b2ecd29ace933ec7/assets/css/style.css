@@ -26,6 +26,10 @@
   .main .banner__fig {
     margin-bottom: 8px;
   }
+  .main .banner__fig img {
+    width: 100%;
+    height: 100%;
+  }
   .main .banner__video {
     width: 682px;
     height: 384px;
